@@ -13,13 +13,12 @@
     {
       "rank": 2,
       "displayName": "MR TAMAL",
-      "avatarUrl": "https://raw.githubusercontent.com/USER/REPO/main/seller2.jpg",
+      "avatarUrl": "https://raw.githubusercontent.com/hckr0972-cmyk/sellers/refs/heads/main/IMG_20261018_005148_261.jpg",
       "countries": [
         { "code": "BD", "name": "Bangladesh" }
       ],
       "global": false,
-      "telegramUrl": "https://t.me/username",
-      "whatsappUrl": "https://wa.me/8801XXXXXXXXX",
+      "telegramUrl": "https://t.me/MR_TAMAL",
       "keysSold": 0,
       "grossSalesCents": 100
     }
