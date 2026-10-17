@@ -1,0 +1,27 @@
+{
+  "sellers": [
+    {
+      "rank": 1,
+      "displayName": "SONIC ENGINE",
+      "avatarUrl": "https://raw.githubusercontent.com/USER/REPO/main/sonic.png",
+      "countries": [],
+      "global": true,
+      "telegramUrl": "https://t.me/billy_wonder",
+      "keysSold": 0,
+      "grossSalesCents": 200
+    },
+    {
+      "rank": 2,
+      "displayName": "NEW SELLER",
+      "avatarUrl": "https://raw.githubusercontent.com/USER/REPO/main/seller2.jpg",
+      "countries": [
+        { "code": "BD", "name": "Bangladesh" }
+      ],
+      "global": false,
+      "telegramUrl": "https://t.me/username",
+      "whatsappUrl": "https://wa.me/8801XXXXXXXXX",
+      "keysSold": 0,
+      "grossSalesCents": 100
+    }
+  ]
+}
