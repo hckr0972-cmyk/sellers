@@ -7,7 +7,7 @@
       "countries": [],
       "global": true,
       "telegramUrl": "https://t.me/billy_wonder",
-      "keysSold": 0,
+      "keysSold": 18,
       "grossSalesCents": 200
     },
     {
@@ -19,6 +19,18 @@
       ],
       "global": false,
       "telegramUrl": "https://t.me/MR_TAMAL",
+      "keysSold": 0,
+      "grossSalesCents": 100
+    },
+    {
+      "rank": 3,
+      "displayName": "ARMAN KHAN",
+      "avatarUrl": "https://raw.githubusercontent.com/hckr0972-cmyk/sellers/refs/heads/main/IMG_20261018_005148_261.jpg",
+      "countries": [
+        { "code": "IND", "name": "INDIA" }
+      ],
+      "global": false,
+      "telegramUrl": "https://t.me/ArmanOfficialSeller",
       "keysSold": 0,
       "grossSalesCents": 100
     }
